@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+ "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<typeAliases>
+<!-- 		<typeAlias alias="member" type="com.green.yphl1.dto.Member"/> -->
+<!-- 		<typeAlias alias="affi" type="com.green.yphl1.dto.Affi"/> -->
+<!-- 		<typeAlias alias="m_order" type="com.green.yphl1.dto.M_order"/> -->
+<!-- 		<typeAlias alias="m_order_detail" type="com.green.yphl1.dto.M_order_detail"/> -->
+<!-- 		<typeAlias alias="cart" type="com.green.yphl1.dto.Cart"/> -->
+<!-- 		<typeAlias alias="product" type="com.green.yphl1.dto.Product"/> -->
+<!-- 		<typeAlias alias="qna" type="com.green.yphl1.dto.QnA"/> -->
+<!-- 		<typeAlias alias="qnar" type="com.green.yphl1.dto.QnAr"/> -->
+<!-- 		<typeAlias alias="wishList" type="com.green.yphl1.dto.WishList"/> -->
+<!-- 		<typeAlias alias="coupon" type="com.green.yphl1.dto.Coupon"/> -->
+<!-- 		<typeAlias alias="review" type="com.green.yphl1.dto.Review"/> -->
+	</typeAliases>
+	
+	<mappers>
+<!-- 		<mapper resource="member.xml" /> -->
+<!-- 		<mapper resource="affi.xml" /> -->
+<!-- 		<mapper resource="m_order.xml" /> -->
+<!-- 		<mapper resource="m_order_detail.xml" /> -->
+<!-- 		<mapper resource="cart.xml" /> -->
+<!-- 		<mapper resource="product.xml" /> -->
+<!-- 		<mapper resource="qna.xml" /> -->
+<!-- 		<mapper resource="qnar.xml" /> -->
+<!-- 		<mapper resource="wishList.xml" /> -->
+<!-- 		<mapper resource="coupon.xml" /> -->
+<!-- 		<mapper resource="review.xml"/> -->
+	</mappers>
+</configuration>
